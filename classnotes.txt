@@ -1,0 +1,18 @@
+Required Software
+
+1.Notepadd ++ 
+2.IDE (Integrated Dev Env) 
+  - VS Code ( Recommend)
+				  - Web Strom
+				  - PyCharm
+				  - Ecliplse
+				  - ATOM
+				  - Sublime Text 
+3.Node Js Software
+4.Python 
+
+-------------------------------
+5.git software 
+  https://git-scm.com/downloads
+
+ 
