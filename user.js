@@ -5,3 +5,7 @@ console.log(x + y);
 
 console.log("X:", x);
 console.log("Y:", y);
+
+
+
+consloe.log(x-y)
