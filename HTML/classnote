@@ -1,0 +1,60 @@
+Document Tags 
+    1.html 
+    2.head 
+    3.body 
+Document Structure Tags 
+
+    div 
+    section 
+    article 
+    header 
+    footer 
+
+Text Formatting Tags 
+ 
+ p 
+ h1, h2, h3, ... h6 
+ b  - verify  
+ strong 
+ i - verify 
+ span 
+
+Link Tags 
+<a href="services.html"> Services </a>
+
+imgage 
+<img /> 
+
+List Tags 
+ ul 
+ ol  
+ li 
+
+Table 
+
+    <thead>
+    <tr>
+    <tbody>
+    <td>
+    <th>
+HTML 5 New Tags 
+    Sematic Tags 
+    <audio>
+    <video>
+Frame Tag 
+    <iframe> 
+
+Form Tags
+
+<label>
+	<input />
+	<button>
+	<textarea>
+	<select>
+	  <option>
+
+
+Tags - Types 
+
+1.Paired Tags/ Container Tags 
+2.Un Paired Tags/Non Container Tags 

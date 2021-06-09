@@ -16,3 +16,49 @@ Required Software
   https://git-scm.com/downloads
 
  
+Git & Git Hub
+
+
+Project Folder   - monitoring system mechanism - Git
+  |||
+  
+  who is opening file?
+  
+  who is modifying the code file 
+  who is over riding the code?
+  Who is adding new file?
+  
+  The process of monitoring team members works and activities 
+  
+  - Version Control System
+ GIT 
+  
+  
+---------------------
+
+echo "# fswd-june-7pm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/narasimhareddyprostack/fswd-june-7pm.git
+git push -u origin main
+
+------------------------------------------------------
+git commit - write to local repository from workspace 
+git push   - Local to Remote /server repo 
+git pull   - REmote/Server to Local Repo 
+git add    - Workspace to Staging Area   
+git init   - initializing the repo 
+
+
+svn - sub version system - outdated 
+
+git - is a Version Control System mechanism 
+
+github/gitlab/gitbucket/azue Repo -  implimentation software of git  
+
+
+  
+  
+ 
