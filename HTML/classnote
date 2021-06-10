@@ -46,12 +46,12 @@ Frame Tag
 
 Form Tags
 
-<label>
-	<input />
-	<button>
-	<textarea>
-	<select>
-	  <option>
+    <label>
+    <input />
+    <button>
+    <textarea>
+    <select>
+    <option>
 
 
 Tags - Types 
