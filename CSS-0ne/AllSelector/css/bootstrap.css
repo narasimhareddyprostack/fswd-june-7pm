@@ -1,0 +1,18 @@
+h1,
+h2 {
+  background-color: coral;
+}
+
+.btn,
+h3,
+#abc {
+  background-color: cornflowerblue;
+}
+
+#newBtn {
+  background-color: yellow;
+}
+
+/* * {
+  background-color: blueviolet;
+} */
