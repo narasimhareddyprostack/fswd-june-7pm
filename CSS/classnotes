@@ -1,0 +1,63 @@
+css means 
+-----------
+  cascading                  style                                       sheet 
+
+inherit or brining        Global Attribute                           .css files 
+Rendering 
+
+- Rendering styles from sheet.
+
+Where we are using CSS?
+-Where HTML gets fialing there we are using CSS.
+CSS - main objective is  
+- Improve the style reusability
+- write once, use multiple times. 
+
+- Inhering style to one section to another section
+
+
+Note: Every HTML drawbacks ,CSS mechanism perfectly recovering. 
+
+
+for Effective Development - HTML + CSS 
+
+
+
+
+==========================
+Features of CSS 
+-------------------------
+1.Flexibility - Any browser, any technology, any platform 
+2.Code/style reusability - 
+3.Accessibility  - Any technology we can access 
+4.East to manage  
+5.Global change - *****
+6.Save lot of time. 
+7.Easy Maintance
+
+8.Inline Styles /  Tag level              - Highest priority
+9.Internal Styles -  Page level styles    - Second Highest Priority
+10.Exteral styles  -  External Styles     - Least priority
+
+HTML CSS 
+11. Page load faster
+
+
+
+How to bring style from .CSS?
+
+using <link href="" />
+
+
+
+================================
+Inline Style 
+-------------------
+- We specify the style inside the tag in the body part.
+- These styles will be applied only for that particular line/tag 
+
+Example :
+
+<p style="background-color:red'> Hello, Good Morning</p>
+
+
