@@ -8,3 +8,4 @@
 var x = 10;
 console.log("Value:", x);
 console.log("Hello, GM");
+var a = 10;

@@ -1,0 +1,42 @@
+Programming - set of statement
+What is JS Statement?
+Statement ends with semicolor; it Optional
+
+var emp_no = 101;
+
+var emp_no  = 101
+
+---------------------
+variable
+ - controlflow
+function
+class object
+---------------------
+Keywords/Reserved Words:
+  - Some words are reserved for some specific purpose.
+60+  Keywords/Reserved
+-------------------------
+break
+switch
+if else
+try
+catch
+class
+function
+var, let, const
+extends 
+while
+return
+super 
+throw
+pause
+continue
+import/
+export
+
+
+
+ 
+
+
+
