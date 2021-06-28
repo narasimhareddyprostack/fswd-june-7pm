@@ -1,0 +1,7 @@
+What is Javascript Array?
+
+--- group of values(single values) as one entity ,we called array 
+--  duplicates allowd
+--  indexing Possible, slicing also Possible
+--  negative indexing is not possible 
+--  hetrogenous values are allowed
