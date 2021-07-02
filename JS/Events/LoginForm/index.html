@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Login Page | Greet Labs Pvt Ltd</title>
+  </head>
+  <body>
+    <h1>Login Form</h1>
+    <hr />
+    <form>
+      <label> Email:</label>
+      <input type="text" placeholder="email" id="email" onchange="getEmail()" />
+      <br />
+      <label> Password :</label>
+      <input
+        type="password"
+        placeholder="password"
+        id="password"
+        onchange="getPassword()"
+      />
+      <br />
+      <button type="submit" value="submit">submit</button>
+    </form>
+  </body>
+  <script>
+    function getEmail() {
+      let emailValue = document.getElementById("email").value;
+      console.log(emailValue);
+    }
+    function getPassword() {
+      let password = document.getElementById("password").value;
+      console.log(password);
+    }
+  </script>
+</html>
