@@ -9,10 +9,11 @@ wish();
 //==============
 
 var wish = () => {
-  console.log("GM");
+  console.log("GM ");
 };
 wish();
 var wish = () => {
   console.log("GN");
 };
-wish();
+
+wish(); 

@@ -1,4 +1,4 @@
 function wish() {
-  console.log("GM");
+  console.log("GM  ,,,,");
 }
-wish()
+wish();
